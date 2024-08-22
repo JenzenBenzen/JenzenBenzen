@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JenzenBenzen
-- 👀 I’m interested in Coding, AI Theory, Management of Software Projects, Frontend
+- 👀 I’m interested in Coding, ML, AI Theory, Management of Software Projects 
 - 🌱 I’m currently learning new paradigms ( Haskell), doing group projects
 - 💞️ I’m looking to collaborate on apps
 - 📫 How to reach me: jensoudhoff2@gmx.de
