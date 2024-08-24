@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenzenBenzen
 - 👀 I’m interested in Coding, ML, AI Theory, Management of Software Projects 
-- 🌱 I’m currently learning new paradigms ( Haskell), doing group projects
+- 🌱 I’m currently learning Haskell, PyTorch, and Python
 - 💞️ I’m looking to collaborate on apps
 - 📫 How to reach me: jensoudhoff2@gmx.de
 
