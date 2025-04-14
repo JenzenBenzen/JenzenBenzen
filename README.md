@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JenzenBenzen
-- 👀 I’m interested in Coding, ML, AI Theory, Management of Software Projects 
-- 🌱 I’m currently learning Haskell, PyTorch, and Python
-- 💞️ I’m looking to collaborate on apps
+- 👀 I’m interested in Coding (Python, Java) and Machine Learning 
+- 🌱 I’m currently learning Kaggle Microcertificates focused around Data Science and Machine Learning
 - 📫 How to reach me: jensoudhoff2@gmx.de
 
 <!---
